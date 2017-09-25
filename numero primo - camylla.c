@@ -105,7 +105,7 @@ int main()
 
  if (num==2)
     {
-       printf("\nObrigado, ate a proxima! Para ver o meu codigo entre no link:"); 
+       printf("\nObrigado, ate a proxima! Para ver o meu codigo entre no link:\n\nhttps://github.com/kmylla/Prog-I/edit/master/numero%20primo%20-%20camylla.c\n\n"); 
        scanf("%d", &num);                         
     }
     
